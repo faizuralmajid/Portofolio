@@ -50,14 +50,12 @@ const userData = {
   ],
   about: {
     title:
-      "I'm a software developer that loves building products and web applications that impact millions of lives",
+      "I'm a software developer that loves building products and web applications",
     description: [
-      `I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-      `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      `I've been developing full-stack application since I was 5 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2018 now.`,
     ],
-    currentProject: "Tailwind Master Kit",
-    currentProjectUrl: "https://tailwindmasterkit.com",
+    currentProject: "Badan Riset dan Inovasi Nasional",
+    currentProjectUrl: "https://brin.go.id",
   },
   experience: [
     {
@@ -83,14 +81,14 @@ const userData = {
     },
     {
       title: "Bachelor",
-      company: "Univeristas Mercu Buana, Jakarta.",
+      company: "Universitas Mercu Buana, Jakarta.",
       year: "2022",
       companyLink: "https://umb.ac.id",
       desc: "Major in Computer Science and Engineering with a CGPA of 7.0. Nobody asks this but it's okay.",
     },
     {
       title: "Internship",
-      company: "Badan Pengkajiand dan Penerapan Teknologi",
+      company: "Badan Pengkajian dan Penerapan Teknologi",
       year: "2018",
       companyLink: "https://bppt.go.id",
       desc: "Developed pothole detection system with OpenCV and computer vision, detects potholes on roads and informs the driver.",
