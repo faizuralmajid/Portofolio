@@ -111,7 +111,7 @@ const userData = {
     linkedin: "https://linkedin.com/in/faizurrahman-allam-majid",
     github: "https://github.com/faizuralmajid",
     facebook: "https://facebook.com/faizurrahmanallammajid",
-    peerlist: "https://peerlist.io/manuarora",
+    // peerlist: "https://peerlist.io/manuarora",
   },
 };
 
